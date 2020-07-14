@@ -19,8 +19,8 @@ IDE: Arduino
 ## Release History
 
 * 1.0.0
-    * first commit
-    * 실습 완료
+    * first
+    * 개발 완료
 
 ## Meta
 
