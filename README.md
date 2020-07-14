@@ -2,7 +2,7 @@
 > 학부생 2학년 2학기 때 개발한 스마트 블라인드 컨트롤러
 
 ![](readme-img/header.jpg)
-![](readme-img/circuit.jpg)
+![](readme-img/circuit.png)
 
 ## Installation
 
