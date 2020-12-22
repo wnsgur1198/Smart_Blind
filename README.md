@@ -12,6 +12,7 @@
 * 시중의 제품을 분석하여 그대로 재현해봄
     * 3D프린팅을 통해 블라인드 줄에 맞는 부품 제작
 * 상세 내용은 링크 참조
+
 <https://drive.google.com/file/d/1KvASIRGkFxsoFC3eV4Te94_ApoIsbMvy/view?usp=sharing>
 
 
