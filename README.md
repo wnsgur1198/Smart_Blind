@@ -3,17 +3,17 @@
 
 ![](readme-img/header1.jpg)
 
-## Installation
+## 개발기간
+* 2018.08.30.~2018.12.14. (약3개월)
 
--
 
-## Usage example
+## 주요 기능
+* 블라인드의 줄에 걸어 원격으로 제어하는 스마트 블라인드 컨트롤러를 개발함
+* 시중의 제품을 분석하여 그대로 재현해봄
+    * 3D프린팅을 통해 블라인드 줄에 맞는 부품 제작
+* 상세 내용은 링크 참조
+<https://drive.google.com/file/d/1KvASIRGkFxsoFC3eV4Te94_ApoIsbMvy/view?usp=sharing>
 
-DC 24V 기어드 모터를 사용하여 블라인드 줄에 걸고 웹을 통해 블라인드를 제어함
-
-## Development setup
-
-IDE: Arduino
 
 ## Release History
 
@@ -21,16 +21,7 @@ IDE: Arduino
     * first
     * 개발 완료
 
-## Meta
 
-김준혁 – wnsgur1198@naver.com
+## Contact
 
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
+김준혁 – kimjunhyeok.it@gmail.com
